@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/prettytrafrontend.git/static/css/main.f540ef21.css",
+    "main.js": "/github.io/prettytrafrontend.git/static/js/main.85714db6.js",
+    "static/js/453.c434548e.chunk.js": "/github.io/prettytrafrontend.git/static/js/453.c434548e.chunk.js",
+    "index.html": "/github.io/prettytrafrontend.git/index.html",
+    "main.f540ef21.css.map": "/github.io/prettytrafrontend.git/static/css/main.f540ef21.css.map",
+    "main.85714db6.js.map": "/github.io/prettytrafrontend.git/static/js/main.85714db6.js.map",
+    "453.c434548e.chunk.js.map": "/github.io/prettytrafrontend.git/static/js/453.c434548e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f540ef21.css",
+    "static/js/main.85714db6.js"
+  ]
+}
