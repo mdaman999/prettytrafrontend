@@ -1,11 +1,10 @@
 {
-  "homepage":"https://mdaman999/github.io/prettytrafrontend.git",
   "name": "prettytrafrontend",
+  "proxy": "http://localhost:8000",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.7.9",
     "gh-pages": "^6.2.0",
@@ -17,8 +16,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -42,6 +41,18 @@
     ]
   },
   "devDependencies": {
+    "@testing-library/react": "^16.3.0",
     "ajv": "^7.2.4"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdaman999/prettytrafrontend.git"
+  },
+  "author": "MD. Aman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdaman999/prettytrafrontend/issues"
   }
 }
