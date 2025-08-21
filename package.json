@@ -1,5 +1,6 @@
 {
   "name": "prettytrafrontend",
+  "homepage": "https://mdaman999.github.io/prettytrafrontend/",
   "proxy": "http://localhost:8000",
   "version": "0.1.0",
   "private": true,
